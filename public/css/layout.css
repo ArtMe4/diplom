@@ -1,0 +1,38 @@
+.title {
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+
+.left {
+    width: 20%;
+    font-size: 15px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.left li {
+    padding: 10px;
+}
+
+.right {
+    width: 30%;
+}
+
+.right > a {
+    display: flex;
+    margin-bottom: 10px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 20px 20px;
+    background: #f8fafd;
+    font-size: 17px;
+}
+
+.center {
+    width: 50%;
+}
